@@ -1,0 +1,22 @@
+{
+  "shapes": [
+    {
+      "id": "1",
+      "color": "red",
+      "type": "circle",
+      "clicks": 30
+    },
+    {
+      "id": "2",
+      "color": "blue",
+      "type": "square",
+      "clicks": 19
+    },
+    {
+      "id": "3",
+      "color": "green",
+      "type": "triangle",
+      "clicks": 9
+    }
+  ]
+}
