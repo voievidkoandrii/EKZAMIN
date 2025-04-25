@@ -4,19 +4,19 @@
       "id": "1",
       "color": "red",
       "type": "circle",
-      "clicks": 32
+      "clicks": 33
     },
     {
       "id": "2",
       "color": "blue",
       "type": "square",
-      "clicks": 21
+      "clicks": 23
     },
     {
       "id": "3",
       "color": "green",
       "type": "triangle",
-      "clicks": 11
+      "clicks": 12
     }
   ]
 }
