@@ -3,7 +3,7 @@ import axios from "axios";
 
 const ShapesLineContext = createContext();
 
-const API_URL = "http://localhost:3000/shapes"; // json-server endpoint
+const API_URL = "https://ekzamin.onrender.com"; // json-server endpoint
 
 export const ShapesLineProvider = ({ children }) => {
   const [shapes, setShapes] = useState([]);
